@@ -4,9 +4,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Design](#design)
-* [Caching](#caching)
-* [Contributing and Support](#contributing-and-support)
-* [License](#license)
 
 ## Installation
 ```
